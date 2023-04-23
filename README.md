@@ -51,6 +51,4 @@
 
    - Run the client index `npm start`.
 
-## CONTRIBUTOR
 
-### Abhinav Kumar | [📝 LinkedIn](https://www.linkedin.com/in/rahul-bairagi-b88b20165/)
