@@ -50,5 +50,9 @@
      ```
 
    - Run the client index `npm start`.
+## Made By
 
+### Pravishti Bhardwaj | [📝 LinkedIn](https://www.linkedin.com/in/pravishti-bhardwaj-7b4042200/)
+### Rahul Bairagi | [📝 LinkedIn](https://www.linkedin.com/in/rahul-bairagi-b88b20165/)
+### Prathmesh Modhe | [📝 LinkedIn](https://www.linkedin.com/in/pmodhe2001/)
 
