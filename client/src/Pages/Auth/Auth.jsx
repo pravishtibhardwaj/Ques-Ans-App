@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom'
 
 import './Auth.css'
 // import icon from '../../assets/icon.png'
-import AboutAuth from './AboutAuth'
+import AboutAuth from './AboutAuth' 
 import { signup, login } from '../../actions/auth'
 
 const Auth = () => {
